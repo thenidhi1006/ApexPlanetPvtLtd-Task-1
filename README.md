@@ -1,6 +1,6 @@
 # ApexPlanetPvtLtd-Task-1
 
-# Apex Plane Pvt Ltd - Task 1: Emoji Rain
+# ApexPlanet Pvt Ltd - Task 1: Emoji Rain
 
 ##  Project Title
 Emoji Rain Animation - A fun and interactive frontend project demonstrating animated emoji rainfall using HTML, CSS, and JavaScript.
